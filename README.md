@@ -1,4 +1,4 @@
-# TDLib
+# https://link.minipay.xyz/invite?ref=xY3l6Ub7
 
 TDLib (Telegram Database library) is a cross-platform library for building [Telegram](https://telegram.org) clients. It can be easily used from almost any programming language.
 
